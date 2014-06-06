@@ -6,7 +6,7 @@ Add fancybox2 support for middleman. Generates thumbnail images, provides helper
 
 Add this line to your application's Gemfile:
 
-    gem 'middleman_fancy_gallery', git: 
+    gem 'middleman_fancy_gallery', git: 'https://github.com/cervinka/middleman_fancy_gallery.git'
 
 And then execute:
 
@@ -97,7 +97,7 @@ it's equivalent to:
  
 ## License
 
-Please be aware that you need to purchase a [license](http://fancyapps.com/fancybox/#license) if you want to use fancybox2 for commercial purposes.
+This gem is free, but please be aware that you need to purchase a [license](http://fancyapps.com/fancybox/#license) if you want to use fancybox2 for commercial purposes.
 
 
 ## Contributing
